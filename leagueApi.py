@@ -24,7 +24,3 @@ for championId in freeChampIdList:
     championName = watcher.champion.rotations(my_region)
     name = nameById(championId)
     print(name, championId)
-
-# Scrape summoner names and find match history
-# compare against lane opponent
-    
